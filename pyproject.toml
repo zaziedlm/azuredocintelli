@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "azuredocintelli"
+version = "0.1.0"
+description = ""
+authors = ["Shuichi Kataoka <shu01k9@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.1"
+azure-ai-formrecognizer = "^3.3.3"
+azure-mgmt-resource = "^23.2.0"
+azure-identity = "^1.19.0"
+azure-ai-documentintelligence = "^1.0.0b4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
