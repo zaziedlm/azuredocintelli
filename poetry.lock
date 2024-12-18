@@ -2,13 +2,13 @@
 
 [[package]]
 name = "azure-ai-documentintelligence"
-version = "1.0.0b4"
+version = "1.0.0"
 description = "Microsoft Azure AI Document Intelligence Client Library for Python"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "azure_ai_documentintelligence-1.0.0b4-py3-none-any.whl", hash = "sha256:c3a90560b4029e232dbab1334ac2f3dda4cae7c1f60dad277fe21a876dd6bb9f"},
-    {file = "azure_ai_documentintelligence-1.0.0b4.tar.gz", hash = "sha256:1aa36f0617b0c129fdc82b039b7084fd5b69af08e8e0cb500108b9f6efd61b36"},
+    {file = "azure_ai_documentintelligence-1.0.0-py3-none-any.whl", hash = "sha256:cdedb1a67c075f58f47a413ec5846bf8d532a83a71f0c51ec49ce9b5bfe2a519"},
+    {file = "azure_ai_documentintelligence-1.0.0.tar.gz", hash = "sha256:c8b6efc0fc7e65d7892c9585cfd256f7d8b3f2b46cecf92c75ab82e629eac253"},
 ]
 
 [package.dependencies]
@@ -635,4 +635,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "d3687dbd99cecd88964e132b07c6545e8f3d4405e7b1ee583e8bfd40b166de33"
+content-hash = "35046ffee5ab13028f6c035b88c52657d0e87a50ca61d8663e820256652e8bc2"

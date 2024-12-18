@@ -11,7 +11,7 @@ python-dotenv = "^1.0.1"
 azure-ai-formrecognizer = "^3.3.3"
 azure-mgmt-resource = "^23.2.0"
 azure-identity = "^1.19.0"
-azure-ai-documentintelligence = "^1.0.0b4"
+azure-ai-documentintelligence = "^1.0.0"
 
 
 [build-system]
